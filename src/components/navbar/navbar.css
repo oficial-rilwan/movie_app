@@ -1,0 +1,18 @@
+.nav {
+  display: flex;
+  height: 4rem;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+.nav-items {
+  display: flex;
+  column-gap: 1.5rem;
+}
+.logo {
+  text-transform: uppercase;
+  padding: 0.25rem 0.5rem;
+  border: 2px solid #44bba4;
+  font-size: 18px;
+  color: #44bba4;
+}
